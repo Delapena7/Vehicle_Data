@@ -1,0 +1,4 @@
+This project is about cleansing and analysing vehicle dataset. 
+
+Software tools to be used
+python and Jupyter notebook
